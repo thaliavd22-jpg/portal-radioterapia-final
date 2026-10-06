@@ -1,0 +1,14 @@
+{
+  "alumnos": [
+    {"email":"frank.centeno@unmsm.edu.pe","password":"23010689","nombre":"Frank Centeno"},
+    {"email":"yhamir.delacruz@unmsm.edu.pe","password":"23010586","nombre":"Yhamir De La Cruz"},
+    {"email":"paul.alegre@unmsm.edu.pe","password":"23010580","nombre":"Paul Alegre"},
+    {"email":"alessandro.evangelista@unmsm.edu.pe","password":"23010205","nombre":"Alessandro Evangelista"},
+    {"email":"josue.ticona@unmsm.edu.pe","password":"21010482","nombre":"Josue Ticona"},
+    {"email":"melisa.chaico@unmsm.edu.pe","password":"23010583","nombre":"Melisa Chaico"},
+    {"email":"alexandra.retamozo@unmsm.edu.pe","password":"23010692","nombre":"Alexandra Retamozo"},
+    {"email":"johan.palacios@unmsm.edu.pe","password":"23010212","nombre":"Johan Palacios"},
+    {"email":"virtual@unmsm.edu.pe","password":"virtual123","nombre":"Alumno Virtual"}
+  ],
+  "admin": {"email":"admin@institucion.edu","password":"admin1234"}
+}
